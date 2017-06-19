@@ -6,9 +6,9 @@ AT&amp; Project
 
 ### Step 1
 ```
-Make sure you have Node.js installed on your computer
-In case you don't, click the link below
-[Node.js](https://nodejs.org/en/)
+- Make sure you have Node.js installed on your computer
+- In case you don't, click the link below
+- [Node.js](https://nodejs.org/en/)
 ```
 
 ### Step 2
@@ -16,15 +16,30 @@ In case you don't, click the link below
 ```
 - Once you have Node.js installed on your computer
 - Open your terminal to the current working repository
-- Run 'npm install'
+- Run 'npm install' in your terminal
 
 This commamd above will installed all the packages you need
 ```
 
-### Step 3
+
+### 3
 ```
-- Once you installed the dependencies needed for the project
-- run 'npm run dev'
+- Make sure you have a database created
+- Once you do, Navigate to the config folder
+- Inside the config.json file, Replace the development object information with your database connection info
+
+Such as:
+- password: 'root',
+- database: 'appointment'
+- host: 'localhost'
+- dialect: 'mysql'
+
+```
+
+### Step 4
+```
+- Once you installed the dependencies needed and database created for the project
+- run 'npm run dev' in your terminal
 
 This will start the app for you at localhost:8080
 ```
