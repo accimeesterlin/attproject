@@ -22,7 +22,7 @@ This commamd above will installed all the packages you need
 ```
 
 
-### 3
+### Step 3
 ```
 - Make sure you have a database created
 - Once you do, Navigate to the config folder
@@ -33,6 +33,8 @@ Such as:
 - database: 'appointment'
 - host: 'localhost'
 - dialect: 'mysql'
+
+Note: no need to create a table, sequelize will take care of that for you.
 
 ```
 
@@ -62,3 +64,13 @@ This will start the app for you at localhost:8080
 ```
 Esterling Accime
 ```
+
+
+### P.S
+```
+If you none of these work for you
+
+Copy and paste that link to your browser
+https://attproject.herokuapp.com/
+
+Note: Use it that step as an alternative
