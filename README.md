@@ -1,5 +1,5 @@
-# attproject
-AT&amp; Project
+# Simple project
+Simple Project; Project
 
 
 ## Below is the step on how to run the App
