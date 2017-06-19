@@ -47,7 +47,7 @@ This will start the app for you at localhost:8080
 ```
 
 
-## What you should
+## What you should see
 ```
 - Go the public folder
 - Navigate to the images folders
