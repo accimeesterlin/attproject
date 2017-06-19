@@ -26,7 +26,7 @@ app.use(express.static(path.join(__dirname + "/public")));
 var db = require("./models");
 
 // force: true will drop the table if it already exists
-db.sequelize.sync({ }).then(() => {
+db.sequelize.sync({ force : true }).then(() => {
 
     app.listen(PORT, function () {
         console.log("App starting at ", PORT);
