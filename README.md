@@ -47,6 +47,15 @@ This will start the app for you at localhost:8080
 ```
 
 
+## What you should
+```
+- Go the public folder
+- Navigate to the images folders
+- The images are what you should see when you run the app successfully
+
+```
+
+
 ### Technologies:
 ```
 1- React.js
