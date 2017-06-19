@@ -8,8 +8,7 @@ AT&amp; Project
 ```
 Make sure you have Node.js installed on your computer
 In case you don't, click the link below
-HTML:
-<a href="https://nodejs.org/en/">Node.js</a>
+[Node.js](https://nodejs.org/en/)
 ```
 
 ### Step 2
@@ -18,18 +17,20 @@ HTML:
 - Once you have Node.js installed on your computer
 - Open your terminal to the current working repository
 - Run 'npm install'
-- This commamd above will instaled all the packages you need
+
+This commamd above will installed all the packages you need
 ```
 
 ### Step 3
 ```
 - Once you installed the dependencies needed for the project
 - run 'npm run dev'
-- This will start the app for you at localhost:8080
+
+This will start the app for you at localhost:8080
 ```
 
 
-### Technolgies:
+### Technologies:
 ```
 1- React.js
 2- Node.js
