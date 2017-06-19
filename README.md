@@ -7,8 +7,8 @@ AT&amp; Project
 ### Step 1
 ```
 - Make sure you have Node.js installed on your computer
-- In case you don't, click the link below
-- [Node.js](https://nodejs.org/en/)
+- In case you don't, copy and paste the link below to your browser
+- https://nodejs.org/en/
 ```
 
 ### Step 2
